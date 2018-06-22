@@ -2,6 +2,3 @@ numpy
 scipy
 pandas
 matplotlib
-seaborn
-Biopython
-reportlab
